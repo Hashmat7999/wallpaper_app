@@ -239,7 +239,7 @@ class _TopicsListState extends State<TopicsListScreen> {
                         }
                        }
 
-               else{
+               else {
                    return const Center (
                    child: CircularProgressIndicator(),
                   );
